@@ -1,5 +1,6 @@
-## Hello World 👋
-## I'm Rachel!
+## Hello World 👋 I'm Rachel!
+
+Hungry to learn, building the future one line at a time
 <!--
 **sjyun0507/sjyun0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,3 +48,10 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 ![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=radical)
+
+## 💡 Contact
+
+📫 Email: sjyun0507@gmail.com  
+<!--
+🌐 Portfolio: https://your-portfolio-link.com  
+-->
