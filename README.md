@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ## 🔧 Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Java, Spring
+- Backend: Java, Spring, Spring Boot
 - Database: MariaDB
-- Tools: Git, Figma, Notion
+- Tools: Git,GitHub,IntelliJ IDEA, Figma, Notion
 
 ---
 
