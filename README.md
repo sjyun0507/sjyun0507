@@ -46,5 +46,4 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-
-![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자이름&show_icons=true&theme=tokyonight)
+![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=radical)
