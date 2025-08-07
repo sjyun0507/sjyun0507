@@ -42,10 +42,15 @@ Hungry to learn, building the future one line at a time
 
 ### 🌱 About Me
 
- • I strive to create warm and user-friendly experiences.
-	•	I’m growing as a developer with a background in service planning and UX thinking.
-	• I’m continuously improving through self-driven learning and hands-on practice.
+<div align="left" style="font-size: 16px; line-height: 1.6">
 
+🌈 I strive to create warm and user-friendly experiences.<br/>
+🛠 I'm growing as a developer with a background in service planning and UX thinking.<br/>
+🎯 I continuously improve through self-driven learning and hands-on practice.<br/>
+🤝 I value collaborative teamwork and communicate with clarity and empathy.<br/>
+🚀 I'm goal-oriented and always focused on delivering meaningful results.<br/>
+
+</div>
 ---
 
 ### 📊 GitHub Stats
