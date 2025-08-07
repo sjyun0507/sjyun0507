@@ -1,4 +1,4 @@
-<h2 align="center">✨ Hello world, I'm Rachel! (@yun-coding) ✨</h2>
+<h2 align="center">✨ Hello world, I'm Rachel! ✨</h2>
 <p align="center">Full-stack developer in the making | Curious mind with a creative soul </p>
 <br/>
 
@@ -35,7 +35,7 @@ Hungry to learn, building the future one line at a time
 | **🚗 스마트 파킹 시스템** | 실시간 주차장 현황 확인 및 예약 시스템<br/>주차 공간 최적화 및 관리자 기능 포함 
 | 🔗 [GitHub 바로가기](https://github.com/sjyun0507/SmartParking_System.git)
 | **☕ 카페 키오스크** | 주문, 포인트 적립, 관리자 상품 등록까지 가능한 셀프 키오스크 웹앱 
-| 🔗 [GitHub 바로가기](https://github.com/sjyun0507/SmartParking_System.git)
+| 🔗 [GitHub 바로가기](https://github.com/sjyun0507/kiosk_user.git)
 | **🎬 영화 예매 시스템** *(진행 중)* | 상영관 좌석 예매 및 결제 기능 포함, 관리자 페이지와 분리된 구조로 개발 중 |
 
 ---
@@ -59,7 +59,7 @@ Hungry to learn, building the future one line at a time
 
 ### 📫 Contact
 
-- GitHub: [github.com/yun-coding](https://github.com/yun-coding)
+- GitHub: [github.com/sjyun0507](https://github.com/sjyun0507)
 - Email: sjyun0507@gmail.com  
 
 
