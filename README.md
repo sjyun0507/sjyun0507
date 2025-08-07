@@ -1,5 +1,6 @@
 <h2 align="center">✨ Hello world, I'm Rachel! ✨</h2>
 <p align="center">Full-stack developer in the making | Curious mind with a creative soul </p>
+<br>
 
 ## 🔧 Tech Stack
 
@@ -52,10 +53,12 @@ Hungry to learn, building the future one line at a time
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=default" alt="Rachel's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjyun0507&theme=default" alt="GitHub Streak" height="180px"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=default" height="170" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sjyun0507&theme=default" height="170" /></td>
+  </tr>
+</table>
 
 ---
 
