@@ -56,10 +56,11 @@ Hungry to learn, building the future one line at a time
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yun-coding&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=radical" alt="Rachel's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yun-coding&theme=default"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjyun0507&theme=radical" alt="GitHub Streak" />
 </p>
 ![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=radical)
 ---
@@ -68,7 +69,7 @@ Hungry to learn, building the future one line at a time
 
 - GitHub: [github.com/yun-coding](https://github.com/yun-coding)
 - Email: sjyun0507@gmail.com  
-- Blog: [velog.io/@yun-coding](https://velog.io/@yun-coding) *(또는 원하는 블로그 주소)*
+
 
 ---
 ### 💖 Visitors
