@@ -55,11 +55,21 @@ Hungry to learn, building the future one line at a time
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=default" alt="Rachel's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjyun0507&theme=default" alt="GitHub Streak" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=default" alt="Rachel's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjyun0507&theme=default" alt="GitHub Streak" height="180px"/>
+</div>
 
+<!-- GitHub Stats Section -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=default" 
+       alt="Rachel's GitHub Stats" 
+       style="height: 200px; object-fit: contain;" />
+       
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjyun0507&theme=default" 
+       alt="GitHub Streak" 
+       style="height: 200px; object-fit: contain;" />
+</div>
 ---
 
 ### 📫 Contact
