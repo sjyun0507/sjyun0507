@@ -1,7 +1,19 @@
 <h2 align="center">✨ Hello world, I'm Rachel! ✨</h2>
-<p align="center">Full-stack developer in the making | Curious mind with a creative soul </p>
+<p align="center">Aspiring Full-Stack Developer | Problem Solver | Lifelong Learner </p>
 <br>
+---
 
+## 🌱 About Me
+
+<div align="left" style="font-size: 16px; line-height: 1.6">
+
+With a background in banking, English education, and logistics, I bring a unique blend of problem-solving, communication, and process optimization skills to full-stack development.
+My English major allows me to collaborate globally and leverage diverse technical resources with ease.
+Currently preparing for a Full-Stack Developer position, building projects such as a Smart Parking System, Cafe Kiosk, and Movie Reservation System.
+
+</div>
+
+---
 ## 🔧 Tech Stack
 
 Hungry to learn, building the future one line at a time
@@ -27,31 +39,19 @@ Hungry to learn, building the future one line at a time
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 ---
-### 📁 Portfolio Projects
+## 📁 Portfolio Projects
 
 | 프로젝트명 | 설명 |
 |------------|------|
-| 🚗 **스마트 파킹 시스템** <br/><a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub 바로가기</a> | 실시간 주차장 현황 확인 및 예약 시스템 <br> 주차 공간 최적화 및 관리자 기능 포함 |
-| ☕ **카페 키오스크** <br/><a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub 바로가기</a> | 주문, 포인트 적립 및 결제 <br> 관리자 상품 등록 및 재고관리, 매출통계 대시보드 기능 포함한 키오스크 웹앱 |
-| 🎬 **영화 예매 시스템** *(진행 중)* | 상영관 좌석 예매 및 결제 기능 <br> 관리자 페이지와 분리된 구조로 개발 중 |
+| 🚗 **스마트 파킹 시스템** <br/><a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub 바로가기</a> | Developed a parking management app with real-time availability tracking and user-friendly UI.<br>
+주차 공간 최적화 및 관리자 기능 포함한 실시간 주차장 현황 확인 및 예약 시스템 |
+| ☕ **카페 키오스크** <br/><a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub 바로가기</a> | Implemented a full-featured kiosk system simulating order placement, menu management, and payment processing.
+ <br> 관리자 상품 등록 및 재고관리, 매출통계 대시보드 기능 포함한 주문, 포인트 적립 및 결제 키오스크 웹앱 |
+| 🎬 **영화 예매 시스템** *(진행 중)* | Building a web app for browsing and booking movie tickets <br> 상영관 좌석 예매 및 결제 기능 시스템개발 중 |
 
 ---
 
-### 🌱 About Me
-
-<div align="left" style="font-size: 16px; line-height: 1.6">
-
-🌈 I strive to create warm and user-friendly experiences.<br/>
-🛠 I'm growing as a developer with a background in service planning and UX thinking.<br/>
-🎯 I continuously improve through self-driven learning and hands-on practice.<br/>
-🤝 I value collaborative teamwork and communicate with clarity and empathy.<br/>
-🚀 I'm goal-oriented and always focused on delivering meaningful results.<br/>
-
-</div>
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <table>
   <tr>
@@ -61,6 +61,26 @@ Hungry to learn, building the future one line at a time
 </table>
 
 ---
+
+## 🏢 Work Experience
+- **Ocean Blue Express (NJ, USA)** — Assistant Manager  
+  *Oct 2019 – Dec 2024*  
+  Managed logistics operations, optimized shipping workflows, and collaborated with international partners.
+
+- **YBM ECC (Daegu, Korea)** — English Instructor  
+  *Jul 2017 – May 2019*  
+  Developed and delivered engaging lessons to diverse student groups, improving communication and presentation skills.
+
+- **MG Saemaeul Geumgo (Goryeong, Korea)** — Associate Manager  
+  *Jul 2014 – Jan 2016*  
+  Handled financial transactions with precision and ensured compliance with banking regulations.
+
+---
+
+## 🎓 Education
+- **B.A. in English Language & Literature** — GPA: 4.0 / 4.5
+
+--
 
 ### 📫 Contact
 
