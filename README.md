@@ -43,10 +43,8 @@ Hungry to learn, building the future one line at a time
 
 | 프로젝트명 | 설명 |
 |------------|------|
-| 🚗 **스마트 파킹 시스템** <br/><a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub 바로가기</a> | <br>
-주차 공간 최적화 및 관리자 기능 포함한 실시간 주차장 현황 확인 및 예약 시스템 |
-| ☕ **카페 키오스크** <br/><a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub 바로가기</a> |
- <br> 관리자 상품 등록 및 재고관리, 매출통계 대시보드 기능 포함한 주문, 포인트 적립 및 결제 키오스크 웹앱 |
+| 🚗 **스마트 파킹 시스템** <br/><a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub 바로가기</a> | 주차 공간 최적화 및 관리자 기능 포함<br>실시간 주차장 현황 확인 및 예약 시스템 |
+| ☕ **카페 키오스크** <br/><a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub 바로가기</a> |관리자 상품 등록 및 재고관리, 매출통계 대시보드 기능 <br> 주문, 포인트 적립 및 결제 키오스크 웹앱 |
 | 🎬 **영화 예매 시스템** *(진행 중)* | 상영관 좌석 예매 및 결제 기능 시스템개발 중 |
 
 ---
