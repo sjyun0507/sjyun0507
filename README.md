@@ -1,7 +1,7 @@
 <h2 align="center">✨ Hello world, I'm Rachel! ✨</h2>
 <p align="center">Aspiring Full-Stack Developer | Problem Solver | Lifelong Learner </p>
 <br>
----
+
 
 ## 🌱 About Me
 
