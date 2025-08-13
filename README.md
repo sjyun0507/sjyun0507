@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yun-coding&label=Visitors&color=brightgreen&style=flat"/>
+</p>
+
 <h2 align="center">✨ Hello world, I'm Rachel! ✨</h2>
 <p align="center">Aspiring Full-Stack Developer | Problem Solver | Lifelong Learner </p>
 <br>
@@ -79,18 +83,4 @@ Hungry to learn, building the future one line at a time
 - **B.A. in English Language & Literature** — GPA: 4.0 / 4.5
 
 ---
-
-### 📫 Contact
-
-- GitHub: [github.com/sjyun0507](https://github.com/sjyun0507)
-- Email: sjyun0507@gmail.com  
-
-
----
-### 💖 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yun-coding&label=Visitors&color=brightgreen&style=flat"/>
-</p>
-
 
