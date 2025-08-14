@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=yun-coding&label=Visitors&color=brightgreen&style=flat"/>
 </p>
 
-<h2 align="center">✨ Hello world, I'm Rachel! ✨</h2>
+<h2 align="center">✨ Hello world, I'm Seoejong(Rachel) Yun! ✨</h2>
 <p align="center">Aspiring Full-Stack Developer | Problem Solver | Lifelong Learner </p>
 <br>
 
