@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">✨ Hello world, I'm Seoejong(Rachel) Yun! ✨</h2>
-<p align="center">Aspiring Full-Stack Developer | Problem Solver | Lifelong Learner </p>
 <br>
 
 
@@ -11,9 +10,7 @@
 
 <div align="left" style="font-size: 16px; line-height: 1.6">
 
-With a background in banking, English education, and logistics, I bring a unique blend of problem-solving, communication, and process optimization skills to full-stack development.
-My English major allows me to collaborate globally and leverage diverse technical resources with ease.
-Currently preparing for a Full-Stack Developer position, building projects such as a Smart Parking System, Cafe Kiosk, and Movie Reservation System.
+With a background in banking, English education, and logistics, I have cultivated strong problem-solving and communication skills that now enhance my approach to software development. Transitioning into full-stack development, I have built projects such as a Smart Parking System, Cafe Kiosk, and Movie Reservation System, applying technologies like React, Java, Spring Boot, and MariaDB. My English major also enables me to collaborate effectively in global teams and access diverse technical resources. I am preparing for a Full-Stack Developer role, where I aim to design user-friendly interfaces and build reliable backend systems that improve both user experience and business efficiency.
 
 </div>
 
