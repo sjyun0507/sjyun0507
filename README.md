@@ -63,6 +63,8 @@ Hungry to learn, building the future one line at a time
 
 **Deployment / Infra:**  
 ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ---
 ## 📁 Portfolio Projects
 
