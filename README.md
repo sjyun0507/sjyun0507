@@ -6,7 +6,7 @@
 <br>
 
 
-## 🌱 About Me
+## About Me
 
 <div align="left" style="font-size: 16px; line-height: 1.6">
 
@@ -15,6 +15,12 @@ With a background in banking, English education, and logistics, I have cultivate
 </div>
 
 ---
+## Portfolio
+
+[포트폴리오](https://portfolioseojeongyun.vercel.app/)
+
+---
+
 ## 🔧 Tech Stack
 
 Hungry to learn, building the future one line at a time
