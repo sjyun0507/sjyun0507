@@ -15,9 +15,10 @@ With a background in banking, English education, and logistics, I have cultivate
 </div>
 
 ---
+
 ## Portfolio
 
-포트폴리오 [링크](https://portfolioseojeongyun.vercel.app/)
+👉 [포트폴리오](https://portfolioseojeongyun.vercel.app/)
 
 ---
 
