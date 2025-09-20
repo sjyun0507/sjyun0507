@@ -18,8 +18,8 @@ With a background in banking, English education, and logistics, I have cultivate
 
 ## Portfolio
 
-[웹] 👉 [포트폴리오](https://portfolioseojeongyun.vercel.app/)
-[PDF]  👉 [portfolio.pdf](https://github.com/user-attachments/files/22437806/portfolio.pdf)
+👉 [WEB 포트폴리오](https://portfolioseojeongyun.vercel.app/) 
+👉 [PDF](https://github.com/user-attachments/files/22437806/portfolio.pdf)
 
 ---
 
