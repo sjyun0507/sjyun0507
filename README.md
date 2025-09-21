@@ -76,7 +76,13 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 ### Deployment & Infra  
 ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+
+### 📚 Currently Learning  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+
 ---
+
 ## Portfolio Projects
 
 | 프로젝트명 | 설명 |
