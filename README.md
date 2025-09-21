@@ -93,12 +93,10 @@ Hungry to learn, building the future one line at a time
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=default" height="170" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sjyun0507&theme=default" height="170" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyun0507&layout=compact&theme=default" height="170"/></td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyun0507&layout=compact&theme=default" height="170"/>
-</p>
+
 ---
 
 ## Work Experience
@@ -119,5 +117,6 @@ Hungry to learn, building the future one line at a time
 ## Education
 - **B.A. in English Language & Literature** — GPA: 4.0 / 4.5
 - **Full-Stack Developer Bootcamp (900 hours)**, Korea IT Academy — Completed
+  
 ---
 
