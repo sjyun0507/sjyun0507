@@ -10,7 +10,10 @@
 
 <div align="left" style="font-size: 16px; line-height: 1.6">
 
-With a background in banking, English education, and logistics, I have cultivated strong problem-solving and communication skills that now enhance my approach to software development. Transitioning into full-stack development, I have built projects such as a Smart Parking System, Cafe Kiosk, and Movie Reservation System, applying technologies like React, Java, Spring Boot, and MariaDB. My English major also enables me to collaborate effectively in global teams and access diverse technical resources. I am preparing for a Full-Stack Developer role, where I aim to design user-friendly interfaces and build reliable backend systems that improve both user experience and business efficiency.
+With professional experience in **banking, education, and global logistics**, I bring strong problem-solving and communication skills into software development.  
+I specialize in **full-stack development** with React, Spring Boot, and MariaDB, focusing on building **user-friendly interfaces** and **reliable backend systems**.  
+My background as an English major also enables me to collaborate smoothly in international teams and access diverse technical resources.  
+I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions that enhance both user experience and business efficiency.  
 
 </div>
 
@@ -18,8 +21,8 @@ With a background in banking, English education, and logistics, I have cultivate
 
 ## Portfolio
 
-👉 [WEB 포트폴리오](https://portfolioseojeongyun.vercel.app/) 
-👉 [PDF](https://github.com/user-attachments/files/22437806/portfolio.pdf)
+👉 [🌐 Web Portfolio](https://portfolioseojeongyun.vercel.app/)  
+👉 [📄 PDF Portfolio](https://github.com/user-attachments/files/22437806/portfolio.pdf)  
 
 ---
 
@@ -79,9 +82,9 @@ Hungry to learn, building the future one line at a time
 
 | 프로젝트명 | 설명 |
 |------------|------|
-| 🎬 **영화 예매 시스템** <a href="https://github.com/sjyun0507/Ticketory.git">🔗 GitHub </a> | 영화 예매 & 스토리 공유 플랫폼 - 티겟 QR발급 및 관리자 시스템  |
-| ☕ **카페 키오스크** <a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub </a> | 카페 주문, 포인트 적립 및 결제 키오스크 웹앱 |
-| 🚗 **스마트 파킹 시스템** <a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub </a> | 실시간 주차장 현황 확인 및 예약 시스템 |
+| 🎬 **영화 예매 시스템** <a href="https://github.com/sjyun0507/Ticketory.git">🔗 GitHub</a> | 영화 예매 & 스토리 공유 플랫폼. QR 기반 티켓 발급, 좌석 선점/해제 로직, 관리자 대시보드 포함 |
+| ☕ **카페 키오스크** <a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub</a> | 카페 주문 및 포인트 적립/결제를 지원하는 웹 키오스크 앱 |
+| 🚗 **스마트 파킹 시스템** <a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub</a> | 실시간 주차 현황 조회 및 예약 기능을 제공하는 웹 서비스 |
 
 ---
 
@@ -93,7 +96,9 @@ Hungry to learn, building the future one line at a time
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sjyun0507&theme=default" height="170" /></td>
   </tr>
 </table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyun0507&layout=compact&theme=default" height="170"/>
+</p>
 ---
 
 ## Work Experience
