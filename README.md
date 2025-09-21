@@ -10,9 +10,9 @@
 
 <div align="left" style="font-size: 16px; line-height: 1.6">
 
-With professional experience in **banking, education, and global logistics**, I bring strong problem-solving and communication skills into software development.  
-I specialize in **full-stack development** with React, Spring Boot, and MariaDB, focusing on building **user-friendly interfaces** and **reliable backend systems**.  
-My background as an English major also enables me to collaborate smoothly in international teams and access diverse technical resources.  
+With professional experience in **banking, education, and global logistics**, I bring strong problem-solving and communication skills into software development. 
+I specialize in **full-stack development** with React, Spring Boot, and MariaDB, focusing on building **user-friendly interfaces** and **reliable backend systems**. 
+My background as an English major also enables me to collaborate smoothly in international teams and access diverse technical resources. 
 I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions that enhance both user experience and business efficiency.  
 
 </div>
