@@ -23,10 +23,9 @@ With a background in banking, English education, and logistics, I have cultivate
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 Hungry to learn, building the future one line at a time
-### 🔧 Tech Stack
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -76,7 +75,7 @@ Hungry to learn, building the future one line at a time
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-## 📁 Portfolio Projects
+## Portfolio Projects
 
 | 프로젝트명 | 설명 |
 |------------|------|
@@ -86,7 +85,7 @@ Hungry to learn, building the future one line at a time
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
@@ -97,7 +96,7 @@ Hungry to learn, building the future one line at a time
 
 ---
 
-## 🏢 Work Experience
+## Work Experience
 - **Ocean Blue Express (NJ, USA)** — Assistant Manager  
   *Oct 2019 – Dec 2024*  
   Managed logistics operations, optimized shipping workflows, and collaborated with international partners.
@@ -112,8 +111,8 @@ Hungry to learn, building the future one line at a time
 
 ---
 
-## 🎓 Education
+## Education
 - **B.A. in English Language & Literature** — GPA: 4.0 / 4.5
-
+- **Full-Stack Developer Bootcamp (900 hours)**, Korea IT Academy — Completed
 ---
 
