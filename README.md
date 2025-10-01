@@ -79,7 +79,7 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
   Managed logistics operations, optimized shipping workflows, and collaborated with international partners.
 
 - **YBM ECC (Daegu, Korea)** — English Instructor  
-  *Jul 2017 – May 2019*  
+  *Dec 2017 – May 2019*  
   Developed and delivered engaging lessons to diverse student groups, improving communication and presentation skills.
 
 - **MG Saemaeul Geumgo (Goryeong, Korea)** — Associate Manager  
