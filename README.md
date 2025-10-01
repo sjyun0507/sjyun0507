@@ -74,7 +74,7 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 ---
 
 ## Work Experience
-- **Ocean Blue Express (NJ, USA)** — Assistant Manager  
+- **Ocean Blue Express (NJ, USA)** — Import Team/Assistant Manager  
   *Oct 2019 – Dec 2024*  
   Managed logistics operations, optimized shipping workflows, and collaborated with international partners.
 
@@ -82,7 +82,7 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
   *Dec 2017 – May 2019*  
   Developed and delivered engaging lessons to diverse student groups, improving communication and presentation skills.
 
-- **MG Saemaeul Geumgo (Goryeong, Korea)** — Associate Manager  
+- **MG Saemaeul Geumgo (Goryeong, Korea)** — Bank teller
   *Jul 2014 – Jan 2016*  
   Handled financial transactions with precision and ensured compliance with banking regulations.
 
