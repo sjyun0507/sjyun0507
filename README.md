@@ -19,7 +19,7 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 
 ---
 
-## 📁 Portfolio
+## Portfolio
 
 <p align="center">
   <a href="https://portfolioseojeongyun.vercel.app/" target="_blank">
@@ -42,7 +42,7 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 > Always learning, building the future one line at a time  
 
@@ -92,6 +92,20 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 - **B.A. in English Language & Literature** — GPA: 4.0 / 4.5
 - **Full-Stack Developer Bootcamp (900 hours)**, Korea IT Academy — Completed
   
+---
+
+## 📜 Certifications  
+
+![정보처리기사](https://img.shields.io/badge/정보처리기사-0A84FF?style=for-the-badge&logo=gov&logoColor=white)  
+![컴퓨터활용능력 2급](https://img.shields.io/badge/컴퓨터활용능력%202급-34A853?style=for-the-badge&logo=microsoft&logoColor=white)  
+![ICDL](https://img.shields.io/badge/ICDL-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+## 📜 Certifications  
+
+- 정보처리기사 (Engineer Information Processing)  
+- 컴퓨터활용능력 2급 (Computer Specialist in Spreadsheet & Database, Level 2)  
+- ICDL (International Computer Driving License)
+
 ---
 
 ## GitHub Stats
