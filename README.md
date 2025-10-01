@@ -19,10 +19,16 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 
 ---
 
-## Portfolio
+## 📁 Portfolio
 
-👉 [🌐 Web Portfolio](https://portfolioseojeongyun.vercel.app/)  
-👉 [📄 PDF Portfolio](https://github.com/user-attachments/files/22437806/portfolio.pdf)  
+<p align="center">
+  <a href="https://portfolioseojeongyun.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-🌐%20Web%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/user-attachments/files/22437806/portfolio.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-📄%20PDF%20Portfolio-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -67,17 +73,6 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 
 ---
 
-## GitHub Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=default" height="170" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyun0507&layout=compact&theme=default" height="170"/></td>
-  </tr>
-</table>
-
----
-
 ## Work Experience
 - **Ocean Blue Express (NJ, USA)** — Assistant Manager  
   *Oct 2019 – Dec 2024*  
@@ -97,5 +92,16 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 - **B.A. in English Language & Literature** — GPA: 4.0 / 4.5
 - **Full-Stack Developer Bootcamp (900 hours)**, Korea IT Academy — Completed
   
+---
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sjyun0507&show_icons=true&theme=default" height="170" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyun0507&layout=compact&theme=default" height="170"/></td>
+  </tr>
+</table>
+
 ---
 
