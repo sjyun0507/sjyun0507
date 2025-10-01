@@ -26,12 +26,21 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 
 ---
 
+## Portfolio Projects
+
+| 프로젝트명 | 설명 |
+|------------|------|
+| 🎬 **영화 예매 시스템** <a href="https://github.com/sjyun0507/Ticketory.git">🔗 GitHub</a> | 영화 예매 & 스토리 공유 플랫폼. QR 기반 티켓 발급, 좌석 선점/해제 로직, 관리자 대시보드 포함 |
+| ☕ **카페 키오스크** <a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub</a> | 카페 주문 및 포인트 적립/결제를 지원하는 웹 키오스크 앱 |
+| 🚗 **스마트 파킹 시스템** <a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub</a> | 실시간 주차 현황 조회 및 예약 기능을 제공하는 웹 서비스 |
+
+---
+
 ## 💻 Tech Stack  
 
 > Always learning, building the future one line at a time  
 
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
+### Languages ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -59,16 +68,6 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
 ### Deployment
 ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
-
----
-
-## Portfolio Projects
-
-| 프로젝트명 | 설명 |
-|------------|------|
-| 🎬 **영화 예매 시스템** <a href="https://github.com/sjyun0507/Ticketory.git">🔗 GitHub</a> | 영화 예매 & 스토리 공유 플랫폼. QR 기반 티켓 발급, 좌석 선점/해제 로직, 관리자 대시보드 포함 |
-| ☕ **카페 키오스크** <a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub</a> | 카페 주문 및 포인트 적립/결제를 지원하는 웹 키오스크 앱 |
-| 🚗 **스마트 파킹 시스템** <a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub</a> | 실시간 주차 현황 조회 및 예약 기능을 제공하는 웹 서비스 |
 
 ---
 
