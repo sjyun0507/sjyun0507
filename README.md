@@ -82,7 +82,7 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
   *Dec 2017 – May 2019*  
   Developed and delivered engaging lessons to diverse student groups, improving communication and presentation skills.
 
-- **MG Saemaeul Geumgo (Goryeong, Korea)** — Bank teller
+- **MG Saemaeul Geumgo (Goryeong, Korea)** — Bank teller 
   *Jul 2014 – Jan 2016*  
   Handled financial transactions with precision and ensured compliance with banking regulations.
 
