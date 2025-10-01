@@ -94,13 +94,7 @@ I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions 
   
 ---
 
-## 📜 Certifications  
-
-![정보처리기사](https://img.shields.io/badge/정보처리기사-0A84FF?style=for-the-badge&logo=gov&logoColor=white)  
-![컴퓨터활용능력 2급](https://img.shields.io/badge/컴퓨터활용능력%202급-34A853?style=for-the-badge&logo=microsoft&logoColor=white)  
-![ICDL](https://img.shields.io/badge/ICDL-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-## 📜 Certifications  
+## Certifications  
 
 - 정보처리기사 (Engineer Information Processing)  
 - 컴퓨터활용능력 2급 (Computer Specialist in Spreadsheet & Database, Level 2)  
