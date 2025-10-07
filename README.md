@@ -10,10 +10,7 @@
 
 <div align="left" style="font-size: 16px; line-height: 1.6">
 
-With professional experience in **banking, education, and global logistics**, I bring strong problem-solving and communication skills into software development. 
-I specialize in **full-stack development** with React, Spring Boot, and MariaDB, focusing on building **user-friendly interfaces** and **reliable backend systems**. 
-My background as an English major also enables me to collaborate smoothly in international teams and access diverse technical resources. 
-I am preparing for a **Full-Stack Developer role**, aiming to deliver solutions that enhance both user experience and business efficiency.  
+Figma를 활용한 기획과 React 기반 UI 개발, 그리고 팀 프로젝트 리딩 경험을 바탕으로 사용자 중심 서비스를 구현하는 신입 프론트엔드 개발자입니다. 은행, 교육, 물류 등 다양한 분야에서 쌓은 경험을 통해 문제 해결력과 커뮤니케이션 역량을 키워왔으며, 이를 서비스 개발에 적극적으로 적용하고 있습니다. 사용자 친화적인 UX/UI를 설계하고 안정적인 기능 구현을 통해, 누구나 쉽게 접근할 수 있는 서비스를 만드는 것을 목표로 하고 있습니다.
 
 </div>
 
