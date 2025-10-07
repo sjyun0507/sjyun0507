@@ -18,10 +18,10 @@ Figma를 활용한 기획과 React 기반 UI 개발, 팀 프로젝트 리딩 경
 
 <p align="center">
   <a href="https://portfolioseojeongyun.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐%20Web%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-%20Web%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
    <a href="https://efficient-composer-280.notion.site/FE_Portfolio-27e4104dd97f80418c36c112bac89384?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/-📘%20Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-%20Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
 
