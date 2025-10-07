@@ -22,9 +22,6 @@ Figma를 활용한 기획과 React 기반 UI 개발, 그리고 팀 프로젝트 
   <a href="https://portfolioseojeongyun.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-🌐%20Web%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/user-attachments/files/22437806/portfolio.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-📄%20PDF%20Portfolio-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
 </p>
 
 ---
