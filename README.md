@@ -32,7 +32,7 @@ Figma를 활용한 기획과 React 기반 UI 개발, 팀 프로젝트 리딩 경
 | 프로젝트명 | 설명 |
 |------------|------|
 | 🎬 **영화 예매 시스템** <a href="https://github.com/sjyun0507/Ticketory.git">🔗 GitHub</a> · <a href="http://211.188.58.155:8080/">🌐 Demo</a> | 영화 예매 & 스토리 공유 플랫폼. QR 기반 티켓 발급, 좌석 선점/해제 로직, 관리자 대시보드 포함 |
-| ☕ **카페 키오스크** <a href="https://github.com/sjyun0507/kiosk_user.git">🔗 GitHub</a> · <a href="http://175.45.200.254:8080/">🌐 Demo</a> | 카페 주문 및 포인트 적립/결제를 지원하는 웹 키오스크 앱 |
+| ☕ **카페 키오스크** <a href="https://github.com/sjyun0507/kiosk_user_react.git">🔗 GitHub</a> · <a href="http://175.45.200.254:8080/">🌐 Demo</a> | 카페 주문 및 포인트 적립/결제를 지원하는 웹 키오스크 앱 |
 | 🚗 **스마트 파킹 시스템** <a href="https://github.com/sjyun0507/SmartParking_System.git">🔗 GitHub</a> | 실시간 주차 현황 조회 및 예약 기능을 제공하는 웹 서비스 |
 
 ---
