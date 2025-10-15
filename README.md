@@ -85,21 +85,6 @@ Figma를 활용한 기획과 React 기반 UI 개발, 팀 프로젝트 리딩 경
 
 ---
 
-## Work Experience
-- **Ocean Blue Express (NJ, USA)** — Import Team/Assistant Manager  
-  *Oct 2019 – Dec 2024*  
-  Managed logistics operations, optimized shipping workflows, and collaborated with international partners.
-
-- **YBM ECC (Daegu, Korea)** — English Instructor  
-  *Dec 2017 – May 2019*  
-  Developed and delivered engaging lessons to diverse student groups, improving communication and presentation skills.
-
-- **MG Saemaeul Geumgo (Goryeong, Korea)** — Bank teller  
-  *Jul 2014 – Jan 2016*  
-  Handled financial transactions with precision and ensured compliance with banking regulations.
-
----
-
 ## GitHub Stats
 
 <table>
